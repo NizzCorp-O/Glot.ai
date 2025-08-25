@@ -7,7 +7,7 @@ Live Execution View: Watch agents collaborate in real-time
 Multi-User Support: Handle multiple users and tasks simultaneously
 :rocket: Quick Start
 # Clone and install
-git clone https://github.com/yourusername/browser-agent-system.git
+git clone https://github.com/NizzCorp-O/Glot.ai.git
 cd browser-agent-system
 
 # Backend (Python)
